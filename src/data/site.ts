@@ -37,11 +37,11 @@ export const site = {
     /** Which channel the main buttons should use first. */
     primary: "whatsapp" as ContactChannel,
     /** Digits only with country code for WhatsApp, e.g. "919876543210". */
-    whatsapp: "", // TODO
+    whatsapp: "917077700378",
     /** Pre-filled WhatsApp text for the generic button. */
     whatsappMessage: "Hi! I'd like to enquire about a custom cake.",
     /** Phone number shown on the site, e.g. "+91 98765 43210". */
-    phone: "", // TODO
+    phone: "+91 70777 00378",
     email: "", // TODO
     /** Instagram handle without the @, e.g. "pinkbakery". */
     instagram: "", // TODO

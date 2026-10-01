@@ -71,7 +71,7 @@ The original WhatsApp photos are kept locally in `media/` and are git-ignored.
 ## Content still needed from the baker
 
 - Business owner's name (optional) and **city / service area**
-- **WhatsApp number**, phone, email, Instagram handle (and Facebook if used)
+- Email and Instagram handle (and Facebook if used) — WhatsApp / phone (+91 70777 00378) are already set
 - Availability / hours and delivery or pickup rules
 - Portrait photo for the About page
 - Her real story, and any true credentials (e.g. FSSAI) — add to `about.page.credentials`
