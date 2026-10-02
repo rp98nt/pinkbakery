@@ -11,12 +11,12 @@ export type ContactChannel = "whatsapp" | "phone" | "email" | "instagram";
 
 export const site = {
   /** Display name used in the header, footer and page titles. */
-  name: "Pink Bakery",
+  name: "Pink's Cake Factory",
   /** Baker's own name (optional). Shown in the footer / About page when set. */
   ownerName: "", // TODO: e.g. "Priya"
   tagline: "Handcrafted custom cakes for every celebration",
   description:
-    "Pink Bakery makes custom birthday, wedding, anniversary and themed cakes — designed around your story and baked fresh to order.",
+    "Pink's Cake Factory makes custom birthday, wedding, anniversary and themed cakes — designed around your story and baked fresh to order.",
   lang: "en",
 
   /** Production URL (used for canonical links, sitemap and social previews). */
@@ -43,7 +43,7 @@ export const site = {
     /** Phone number shown on the site, e.g. "+91 98765 43210". */
     phone: "+91 70777 00378",
     email: "", // TODO
-    /** Instagram handle without the @, e.g. "pinkbakery". */
+    /** Instagram handle without the @, e.g. "pinkscakefactory". */
     instagram: "", // TODO
     /** Full Facebook page URL (optional). */
     facebook: "",
@@ -78,7 +78,7 @@ export const site = {
     eyebrow: "Meet your baker",
     title: "Every cake starts with your story",
     teaser: [
-      "Pink Bakery is a one-woman kitchen where each cake is designed and made by hand — never mass-produced.",
+      "Pink's Cake Factory is a one-woman kitchen where each cake is designed and made by hand — never mass-produced.",
       "You share the occasion, the person and the mood. From there I shape the flavours, colours and details into a cake that is unmistakably theirs.",
       "From piped buttercream roses to modelled fondant characters and fresh fruit toppings, my focus is always on care, detail and a cake that tastes as good as it looks.",
     ],
@@ -109,11 +109,11 @@ export const site = {
       text: string;
     }[],
     page: {
-      title: "About Pink Bakery",
+      title: "About Pink's Cake Factory",
       description:
-        "The story behind Pink Bakery — a home for custom, handcrafted celebration cakes.",
+        "The story behind Pink's Cake Factory — a home for custom, handcrafted celebration cakes.",
       intro:
-        "Pink Bakery is built on a simple idea: a celebration cake should feel personal. Not picked from a catalogue — made for the person, the moment and the people who will gather around it.",
+        "Pink's Cake Factory is built on a simple idea: a celebration cake should feel personal. Not picked from a catalogue — made for the person, the moment and the people who will gather around it.",
       story: [
         "Every order begins with a conversation. Who is the cake for? What do they love? Is there a colour, a character, a hobby or a memory we can bring to life? Those answers become a design, a flavour plan and finally a cake.",
         "The cakes on this site are real work, made for real celebrations — kids' birthdays with unicorns and farm animals, elegant tiered cakes for engagements and anniversaries, fresh fruit cakes for family gatherings, and playful themed cakes that celebrate a person's profession or passion.",
